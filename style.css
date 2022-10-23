@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
+body {
+    background-color: rgb(253, 251, 251);
+}
+nav#cabecalho {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: black;
+    color: rgba(134, 208, 23, 0.839);
+    text-align: center;
+}
+header {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    align-items: center;
+}
+header > img {
+    display: inline;
+    padding: 50px;
+    width: 300px;
+    border-radius: 100px;
+}
+header > aside {
+    display: inline;
+}
+header > aside > ol#licoes_aprendidas {
+    list-style-type: decimal;
+}
+header > aside > p {
+    font-size: 30px;
+}
+header > aside > ul#licoes_a_aprender {
+    list-style-type: circle;
+}
+aside {
+    width: 300px;
+    padding-left: 50px;
+}
+main{
+    display: flex;
+    flex-direction: row;
+}
+aside.lado-esquerdo{
+    line-height: 30px;
+}
+article{
+    width: 500px;
+    margin: auto;
+    position: relative;
+    top: -50px;
+}
+table {
+    position: relative;
+    top: -50px;
+    padding-right: 50px;
+}
+th, td {
+    background-color: rgba(163, 255, 24, 0.488);
+    color: black;
+    padding: 5px 15px;
+}
+footer {
+    display: block;
+    text-align: center;
+    position: relative;
+    padding-bottom: 50px;
+}
+footer > a {
+    text-decoration: none;
+    background-color: black;
+    color: rgb(163, 255, 24);
+    padding: 14px 25px;
+    border-radius: 10px;
+}
+footer > a:hover {
+    background-color: rgb(45, 45, 45);
+    color: white;
+};
