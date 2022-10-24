@@ -1,10 +1,18 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Lessons Learned 📚
+
+Esse é um projeto desenvolvido durante o módulo de Front-end na [Trybe](https://www.betrybe.com/), em que criamos uma página de portfólio usando os conhecimentos adquiridos até ali com HTML e CSS.
+
+![Screenshot - preview](./preview.gif)
+
+## Skills desenvolvidas
+
+* Estruturar uma página com HTML;
+* Aplicar CSS para estilizar;
+* Construir página do zero;
+* Aplicar Layout e Box Model;
+* Utilizar links externos;
+
+## Ferramentas utilizadas
+
+* HTML5
+* CSS3
